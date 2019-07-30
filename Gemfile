@@ -49,7 +49,7 @@ end
 group :production do
   # postgres used for production deploy
   gem 'pg'
-  gem 'rails_12factor'
+  
 end
 
 group :test do
