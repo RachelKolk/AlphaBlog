@@ -54,6 +54,28 @@
     margin-top: 0;
 }
 
+.card {
+    margin-bottom: 2em;
+    
+}
+
+.article-title {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.article-body {
+    border-top: 1px solid #3F4448;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.article-actions {
+    padding-bottom: 1em;
+    padding-left: 1.25em;
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
